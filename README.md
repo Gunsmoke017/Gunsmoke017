@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kinggs Kien-Olali
 =========================================================================================================================================
 
-Full-stack Java Developer
+Back end software engineer
 -------------------------
 
 I'm a person who enjoys learning new things as well as an expert and diligent developer.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [percivalrp106@gmail.com](mailto:percivalrp106@gmail.com)
 
 ### Skills
